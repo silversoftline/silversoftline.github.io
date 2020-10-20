@@ -8,8 +8,9 @@ Silver Soft Line
 We are a software company based in Serbia in town near Belgrade, we specialize in making apps for Android, Unity and Huawei. Our goal as a company is to grow and make high-quality apps that appeal to mass-users and help better their lives or bring joy into their everyday life. 
 
 
+<a href="ssl_contact_hwag@yahoo.com" target="_blank" rel="noopener noreferrer">Get in touch with us at</a>
 
-<a href="mailto:someone@yoursite.com">Get in touch with us at:</a>
+
 ssl_contact_hwag@yahoo.com
             
             
