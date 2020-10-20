@@ -3,15 +3,16 @@ layout: inner
 title: Privacy Policy
 permalink: /privacypolicy/
 ---
-<b>SILVER SOFT LINE Mobile Applications.
+<b>SILVER SOFT LINE Mobile Applications.</b>
  
-Thanks for using our apps</b>
+Thanks for using our apps
 
  
 
 This privacy policy is owned and operated by SILVER SOFT LINE. We care about our users and respect their privacy. Your privacy is very important to us. We have created this privacy policy to let you know what personal information we collect when you use our app’s, how we use and share the personal information we collect, and how we protect your privacy.
 
 <b>Advertising Networks and Automatic Data Collection</b>
+
 
 We work with advertising networks that need to know how you interact with advertising provided in the app which helps us keep the app free. Advertisers and advertising networks may collect some information’s including, but not limited to, the unique identification ID of your mobile device.
 Device and usage information: device ID, operating system settings, device hardware information, basic app information and app usage information, network information, mobile carrier information, and HUAWEI ID.
@@ -25,14 +26,18 @@ https://consumer.huawei.com/en/privacy/privacy-policy/
 
 
 <b>Links to Other Sites:</b>
+
 Our apps may contain links to other sites that are not operated by us. If you click on a third-party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third-party sites or services.
 
 <b>Opt-out rights:</b>
+
 If you disagree with this Privacy Policy, you should stop using our apps and uninstall them.
 
 <b>Changes:</b>
+
 Our Privacy Policy may change from time to time. We will post any privacy policy changes on this page so please review it periodically.
 
 <b>Contact us:</b>
+
 If you have questions or concerns about our privacy practices, contact us at: ssl_contact_hwag@yahoo.com
