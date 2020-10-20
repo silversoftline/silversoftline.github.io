@@ -19,8 +19,8 @@ description: "We are a software company based in Serbia. Our goal is to make hig
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://silversoftline.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: ''
-github_username: 'silversoftline'
-medium_username: '
+github_username: ''
+medium_username: ''
 
 # Build settings
 markdown: kramdown
@@ -34,7 +34,7 @@ plugins:
 pagination:
   
   # Site-wide kill switch, disabled here it doesn't run at all 
-  enabled: true
+  enabled: false
 
   # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
   debug: false
@@ -99,4 +99,4 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
-    - { url: '/privacypolicy', text: 'Privacy Policy' }
+  - { url: '/privacypolicy', text: 'Privacy Policy' }
