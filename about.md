@@ -9,10 +9,8 @@ We are a software company based in Serbia in town near Belgrade, we specialize i
 
 
 Get in touch with us at:
-    <a href="mailto:{{ ssl_contact_hwag@yahoo.com }}">
-          
-                <p>{{ ssl_contact_hwag@yahoo.com }}</p>
-            </a>
+<p>{{ ssl_contact_hwag@yahoo.com }}</p>
+      
 ssl_contact_hwag@yahoo.com
             
             
