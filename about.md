@@ -15,8 +15,4 @@ ssl_contact_hwag@yahoo.com
             
             
             
-You can check all of our apps on the following links:
 
-Huawei AppGallery: todo
-
-Amazon AppStore: todo
